@@ -1,21 +1,44 @@
-<h1 align="center">Hi 👋, I'm Chethana Dikkumbura</h1>
+<p align="center" ><img  src = "https://github.com/7oSkaaa/7oSkaaa/blob/main/Images/about_me.gif?raw=true" width = 100px></p>
+<h1 align="center">Hi 👋, I'm Chethana Dikkumbura (Chethi)</h1>
 <h3 align="center">A passionate full stack developer from Sri Lanka.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=chethidikkumbura&label=Profile%20views&color=0e75b6&style=flat" alt="chethidikkumbura" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=chethidikkumbura&label=Profile%20views&color=0e75b6&style=flat" alt="chethidikkumbura" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chethidikkumbura" alt="chethidikkumbura" /></a> </p>
+---
 
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=chethidikkumbura" alt="chethidikkumbura" /></a> </p>
+
+---
+
+<table align="center">
+<tr border="none">
+<td width="50%" align="left">
+  
 - 🌱 I’m currently learning **Java**
 
-- 💬 Ask me about **html and css**
+- 🧑‍🎓 I’m an Undergraduate at **Java Institute**
+
+- 💬 Ask me about **HTML & CSS**
 
 - 📫 How to reach me **chethidikkumbura@gmail.com**
-
+  
 - ⚡ Fun fact **Call me as Chethi**
+
+</td>
+<td width="50%" align="center">
+
+  <img align="center" alt="Coding" width="450" src="https://repository-images.githubusercontent.com/588181932/e36ec678-7984-4cdd-8e4c-a3932772ff8e">
+
+  
+  </td>
+</tr>
+</table>
+
+---
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://www.linkedin.com/in/chethana-dikkumbura-354a8427b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chethana-dikkumbura" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/chethana-dikkumbura-354a8427b?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="chethana-dikkumbura" height="45" width="60" /></a>
 <a href="https://www.facebook.com/share/13mMf9jjYU/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="chethana.dikkumbura" height="30" width="40" /></a>
 <a href="https://www.instagram.com/chethidikkumbura?utm_source=qr&igsh=azB0emx6eHRmNnFo" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="chethidikkumbura" height="30" width="40" /></a>
 <a href="https://www.youtube.com/@chethanadikkumbura374" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="chethidikkumbura" height="30" width="40" /></a>
