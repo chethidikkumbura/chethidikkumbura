@@ -16,9 +16,17 @@
 ---
 
 <div align="center">
-  <a href="https://github.com/ryo-ma/github-profile-trophy" title="Go to Source">
-    <img width="84%" src="https://github-profile-trophy.vercel.app/?username=chethidikkumbura&theme=radical&row=1&column=7&margin-h=15&margin-w=5&no-bg=true" alt="GitHub Trophies" />
-  </a>
+  <hr>
+
+
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=chethidikkumbura&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="chethidikkumbura" />
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=chethidikkumbura&show_icons=true&locale=en&theme=highcontrast" alt="chethidikkumbura" />
+  <br><br>
+  <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=chethidikkumbura&theme=highcontrast" alt="chethidikkumbura" />
+    
+<hr>
 </div>
 
 ---
