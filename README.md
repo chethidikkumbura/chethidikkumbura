@@ -51,13 +51,17 @@
 
 <div align="center">
 
-  <!-- GitHub stats, counting private repos: add &count_private=true -->
-  <img src="https://github-readme-stats.vercel.app/api?username=chethidikkumbura&theme=dark&show_icons=true&count_private=true" alt="GitHub Stats" />
+<hr>
 
-  <br/>
 
-  <!-- Top languages, counting private repos, limit 10 languages -->
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=chethidikkumbura&layout=compact&theme=dark&langs_count=10&count_private=true" alt="Top Languages" />
+  <p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=geekhirushadev&show_icons=true&locale=en&layout=compact&theme=highcontrast" alt="geekhirushadev" />
+  &nbsp;
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=geekhirushadev&show_icons=true&locale=en&theme=highcontrast" alt="geekhirushadev" />
+  <br><br>
+    
+<hr>
+  
 </div>
 
 ---
